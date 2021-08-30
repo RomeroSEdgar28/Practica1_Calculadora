@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Hola mundo
-    //Hola mundo
     Double numero1,numero2,resultado;
     String operador;
 
